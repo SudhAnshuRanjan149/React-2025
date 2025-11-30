@@ -19,6 +19,7 @@
  * - useContext: avoiding prop drilling
  * - useMemo & useCallback: when NOT to use them
  * - useReducer: alternative to useState for complex logic
+ * - More hooks: useLayoutEffect, useImperativeHandle
  * - Custom Hooks: logic abstraction
  */
 
